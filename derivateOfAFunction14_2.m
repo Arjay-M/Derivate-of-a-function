@@ -1,6 +1,6 @@
 
-%defrive of a function
-%set up a x-array from 0 to 10 with a
+%derive of a function
+%set up a x-array from 0 to 10 with array
 
 x = 0:0.01:10;
 y = 5*x.^2.*exp(-0.2*x).*sin(x);
