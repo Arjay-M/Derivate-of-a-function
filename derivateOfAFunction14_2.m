@@ -1,5 +1,4 @@
-
-%derive of a function
+%derive of a function 14.2
 %set up a x-array from 0 to 10 with array
 
 x = 0:0.01:10;
